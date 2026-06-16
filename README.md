@@ -1,6 +1,7 @@
 # ML-Assignment4--Facial-Recognition
 
 **Weights & Biases (W&B) რეპორტის ლინკი:** `[https://wandb.ai/tvada22-free-university-of-tbilisi-/Facial-Recognition-Challenge/reports/Facial-Recognition-Challenge--VmlldzoxNzI0OTU5MA]`
+პროექტის ლინკი: `[https://wandb.ai/tvada22-free-university-of-tbilisi-/Facial-Recognition-Challenge]`
 
 ეს radme აღწერს ნეირონული ქსელების არქიტექტურის ევოლუციასა და ჰიპერპარამეტრების ტუნინგს FER-2013 მონაცემთა ბაზაზე მუშაობისას. მიზანი იყო მოდელის ეტაპობრივი გაუმჯობესება სრული underfitting-დან ოპტიმალურ generalization-მდე, Deep Learning-ის კლასიკური პრობლემების ანალიზით.
 
